@@ -3,6 +3,9 @@
 *.ko
 *.obj
 *.elf
+*.PBP
+*.prx
+*.SFO
 
 # Precompiled Headers
 *.gch
@@ -30,3 +33,7 @@
 
 # Debug files
 *.dSYM/
+
+# Releases & oputput folders
+release/
+release_oe/
