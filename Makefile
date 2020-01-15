@@ -12,3 +12,4 @@ clean:
 	$(MAKE) -f Makefile.psp clean
 	$(MAKE) -f Makefile.oe clean
 	$(MAKE) -f Makefile.tools clean
+	rm -rf **/*.PBP **/*.SFO
